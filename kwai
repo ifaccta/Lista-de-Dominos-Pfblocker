@@ -1,3 +1,5 @@
+#Lista criada para bloqueio do Aplicativo kwai
+
 0.0.0.0 kwai.com
 0.0.0.0 m.kwai.com
 0.0.0.0 awsvg.upload.kwai.com
@@ -99,7 +101,6 @@
 0.0.0.0 vesrc1.cdn.kwai.com
 0.0.0.0 pg-ulog.kwai.com
 0.0.0.0 vesrc2.cdn.kwai.com
-
 0.0.0.0 sg.dsa.api.kwai.com
 0.0.0.0 awsvg.api.kwai.com
 0.0.0.0 api-shop.kwai.com
