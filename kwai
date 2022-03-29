@@ -1,6 +1,7 @@
 # Lista criada para bloqueio do Aplicativo kwai
 0.0.0.0 kwai.com
 0.0.0.0 m.kwai.com
+0.0.0.0 cdn.kwai.net
 0.0.0.0 awsvg.upload.kwai.com
 0.0.0.0 ntp1.kwai.com
 0.0.0.0 g-live.kwai.com
