@@ -1,7 +1,4 @@
 # Lista criada para bloqueio do Aplicativo kwai
-
-# Dominios filtrados em 29/03/2022
-
 0.0.0.0 ulog.kwaipros.com
 0.0.0.0 ulog.kwai-pro.com
 0.0.0.0 g-zt.kwai-pro.com
@@ -15,8 +12,6 @@
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 aws-static.kwai.net
 0.0.0.0 api.adaether.com
-
-# Dominios obtidos na internet em 29/03/2022
 0.0.0.0 kwai.com
 0.0.0.0 m.kwai.com
 0.0.0.0 awsvg.upload.kwai.com
