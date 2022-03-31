@@ -508,7 +508,6 @@
 0.0.0.0 ak-br-pic.kwai.net
 0.0.0.0 ak-live-static.kwai.net
 0.0.0.0 ak-static.kwai.net
-0.0.0.0 cdn-static.kwai.net
 0.0.0.0 pg-src.kwai.net
 0.0.0.0 reload.kwai.net
 0.0.0.0 pkg.kwai.net
@@ -530,3 +529,4 @@
 0.0.0.0 a1990.b.akamai.net
 0.0.0.0 kuaishou.v.bsclink.cn
 0.0.0.0 e1329.g.akamaiedge.net
+0.0.0.0 e10499.dsce9.akamaiedge.net
