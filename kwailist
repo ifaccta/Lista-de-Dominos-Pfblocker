@@ -548,3 +548,9 @@
 0.0.0.0 kuaishou.com
 0.0.0.0 ws-br-pic.kwai.net
 0.0.0.0 w-api.kwai-pro.com
+0.0.0.0 ak-br-cdn.kwai.net
+0.0.0.0 g-br-cdn.kwai.net
+0.0.0.0 tx-br-cdn.kwai.net
+0.0.0.0 txv2-br-cdn.kwai.net
+0.0.0.0 ws-br-cdn.kwai.net
+0.0.0.0 ws-pro-origin-pull.kwai.net
