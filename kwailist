@@ -1,5 +1,6 @@
 # Lista criada para bloqueio do Aplicativo kwai
 0.0.0.0 kwai.com
+0.0.0.0 kuaishou.com
 0.0.0.0 m.kwai.com
 0.0.0.0 cdn.kwai.net
 0.0.0.0 awsvg.upload.kwai.com
@@ -545,7 +546,6 @@
 0.0.0.0 asia.poll.ntp.org
 0.0.0.0 sg.poll.ntp.org
 0.0.0.0 hk.poll.ntp.org
-0.0.0.0 kuaishou.com
 0.0.0.0 w-api.kwai-pro.com
 0.0.0.0 ak-br-cdn.kwai.net
 0.0.0.0 g-br-cdn.kwai.net
